@@ -1,0 +1,30 @@
+	;
+,
+$
+{}
+()
+#
++
+-
+*
+/
+>
+<
+<>
+=
+==
+.AND.
+.OR.
+.AS
+.o
+PLATYPUS
+FAlse
+
+!!it is a comment
+!=Wrong comment
+"lucky"
+"My Scanner has gone astray";
+3C
+num08
+1.23
+0.000000000000000000000000000000000000000000000000000000000000000000001
